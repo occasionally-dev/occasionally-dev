@@ -23,7 +23,7 @@
 
 I'm a **Python, C++ and Java developer** from Russia.
 
-I'm interested in **backend development**, **cybersecurity** and **open source**..
+I'm interested in **software development**, **reverse engineering**, **radio electronics**, **web engineering**, **Minecraft modding**, **creating telegram bots** and etc. ..
 
 ---
 
